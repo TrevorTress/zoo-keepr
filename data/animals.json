@@ -99,16 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Chester",
-      "species": "Cheetah",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "anxious"
-      ],
-      "id": "10"
     }
   ]
 }
